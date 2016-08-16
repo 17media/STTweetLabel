@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
+   LastUpgradeVersion = "0730"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -13,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "254E4346167E7475004191B6"
-               BuildableName = "STTweetLabelExample.app"
-               BlueprintName = "STTweetLabelExample"
+               BlueprintIdentifier = "8E2A1B3E1D630380009C7C6F"
+               BuildableName = "STTweetLabel.framework"
+               BlueprintName = "STTweetLabel"
                ReferencedContainer = "container:STTweetLabelExample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -27,36 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BE35E74118009143001F64D7"
-               BuildableName = "STTweetLabel Tests.xctest"
-               BlueprintName = "STTweetLabel Tests"
-               ReferencedContainer = "container:STTweetLabelExample.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8E2A1B471D630380009C7C6F"
-               BuildableName = "STTweetLabelTests.xctest"
-               BlueprintName = "STTweetLabelTests"
-               ReferencedContainer = "container:STTweetLabelExample.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "254E4346167E7475004191B6"
-            BuildableName = "STTweetLabelExample.app"
-            BlueprintName = "STTweetLabelExample"
-            ReferencedContainer = "container:STTweetLabelExample.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -70,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "254E4346167E7475004191B6"
-            BuildableName = "STTweetLabelExample.app"
-            BlueprintName = "STTweetLabelExample"
+            BlueprintIdentifier = "8E2A1B3E1D630380009C7C6F"
+            BuildableName = "STTweetLabel.framework"
+            BlueprintName = "STTweetLabel"
             ReferencedContainer = "container:STTweetLabelExample.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -92,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "254E4346167E7475004191B6"
-            BuildableName = "STTweetLabelExample.app"
-            BlueprintName = "STTweetLabelExample"
+            BlueprintIdentifier = "8E2A1B3E1D630380009C7C6F"
+            BuildableName = "STTweetLabel.framework"
+            BlueprintName = "STTweetLabel"
             ReferencedContainer = "container:STTweetLabelExample.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
